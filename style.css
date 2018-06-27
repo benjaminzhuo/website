@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+
+.carousel-item {
+   width:100%;
+  height: 600px;
+}
+/*--- Fixed Background Image --*/
+figure {
+  position: relative;
+  width: 100%;
+  height: 60%;
+  margin: 0!important;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 200px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Lato:900);
+
+
+
+
+#red{ 
+ 
+  background: #1E2E2E; 
+  position:absolute; 
+  bottom:0; 
+  height:100%;
+  width:100%; 
+  height:180px; 
+}
+
+.text {
+  color: #000000;
+  font-family: Lato;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+
